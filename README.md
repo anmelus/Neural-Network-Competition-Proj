@@ -14,4 +14,4 @@ A more in depth methodology as to how we solved this problem is viewable in the 
 
 ## Conclusion
 
-I worked with Radek Pudelko https://github.com/RadekPudelko on this project and we ended up getting 3rd place with an f1 score of about ~92% on the final test set. On our own validation sets we hit scores of ~95%.
+I worked with Radek Pudelko https://github.com/RadekPudelko on this project with Team 29 and we ended up getting 3rd place with an f1 score of about ~92% on the final test set. On our own validation sets we hit scores of ~95%. Pretty good for a 2-man team!
